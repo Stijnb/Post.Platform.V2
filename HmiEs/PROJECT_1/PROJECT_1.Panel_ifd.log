@@ -1,9 +1,10 @@
-﻿ES2RT linker log file created on maandag 24 december 2012 17:06:27
+﻿ES2RT linker log file created on woensdag 26 december 2012 17:21:34
 
 Linking...
 User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
+User Warning - Resource Id [ WrongEndLocationOrSize ], caused in [ LinkerClass ]
 User Info - Resource Id [ NumberPowerTags ], caused in [ LinkerLicense ]
-0 errors, 0 warnings - succeeded.
+0 errors, 1 warnings - succeeded.
 
 Writing "C:\Program Files\Siemens\Step7\S7Proj\Post.Platform.V2\HmiEs\PROJECT_1\PROJECT_1.Panel"...
 Done.
