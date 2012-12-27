@@ -1,10 +1,27 @@
-﻿ES2RT linker log file created on woensdag 26 december 2012 17:21:34
+﻿ES2RT linker log file created on donderdag 27 december 2012 14:30:01
 
 Linking...
 User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
+User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ WrongEndLocationOrSize ], caused in [ LinkerClass ]
 User Warning - Resource Id [ WrongEndLocationOrSize ], caused in [ LinkerClass ]
 User Info - Resource Id [ NumberPowerTags ], caused in [ LinkerLicense ]
-0 errors, 1 warnings - succeeded.
+0 errors, 18 warnings - succeeded.
 
 Writing "C:\Program Files\Siemens\Step7\S7Proj\Post.Platform.V2\HmiEs\PROJECT_1\PROJECT_1.Panel"...
 Done.
