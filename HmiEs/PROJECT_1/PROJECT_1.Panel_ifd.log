@@ -1,19 +1,12 @@
-﻿ES2RT linker log file created on donderdag 27 december 2012 16:01:24
+﻿ES2RT linker log file created on donderdag 27 december 2012 19:42:34
 
 Linking...
 User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
 User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
 User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ AnimationMovementDiagonalWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
 User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
 User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
-User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
-User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
-User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
-User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
-User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
-User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
-User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
-User Warning - Resource Id [ AnimationMovementVerticalWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
 User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
 User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
 User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
@@ -21,7 +14,7 @@ User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ 
 User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
 User Warning - Resource Id [ WrongEndLocationOrSize ], caused in [ LinkerClass ]
 User Info - Resource Id [ NumberPowerTags ], caused in [ LinkerLicense ]
-0 errors, 18 warnings - succeeded.
+0 errors, 11 warnings - succeeded.
 
 Writing "C:\Program Files\Siemens\Step7\S7Proj\Post.Platform.V2\HmiEs\PROJECT_1\PROJECT_1.Panel"...
 Done.
