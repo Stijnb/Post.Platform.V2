@@ -1,4 +1,4 @@
-﻿ES2RT linker log file created on donderdag 27 december 2012 14:30:01
+﻿ES2RT linker log file created on donderdag 27 december 2012 16:01:24
 
 Linking...
 User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
@@ -13,12 +13,12 @@ User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ 
 User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
 User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
 User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
+User Warning - Resource Id [ AnimationMovementVerticalWithoutTag ], containing object type [ DYNAMIC_DUMMY_HATCH ]
 User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
 User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
 User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
 User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
 User Warning - Resource Id [ MovedScreenItemInGroup ], containing object type [ Warning ]
-User Warning - Resource Id [ WrongEndLocationOrSize ], caused in [ LinkerClass ]
 User Warning - Resource Id [ WrongEndLocationOrSize ], caused in [ LinkerClass ]
 User Info - Resource Id [ NumberPowerTags ], caused in [ LinkerLicense ]
 0 errors, 18 warnings - succeeded.
